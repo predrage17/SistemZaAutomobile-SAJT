@@ -90,9 +90,16 @@ const Footer = () => {
 
       </Content>
 
-      <BottomBar>
-        &copy; {new Date().getFullYear()} AutoExpress. Design by <span>Predrag Savić</span> | Mockup Project Site
-      </BottomBar>
+   <BottomBar>
+  <div>
+    &copy; {new Date().getFullYear()} <strong>AutoExpress</strong>. 
+    Design by <span>Predrag Savić 6153</span>
+  </div>
+  <div style={{ fontSize: '0.8rem', marginTop: '5px', opacity: 0.7 }}>
+    Ovaj sajt je isključivo <strong>studentski projekat</strong> u svrhe portfolija. 
+    Sve slike i brendovi su vlasništvo njihovih autora i ne koriste se u komercijalne svrhe.
+  </div>
+</BottomBar>
     </FooterContainer>
   );
 };
