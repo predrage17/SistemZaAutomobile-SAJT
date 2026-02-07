@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1770411971226" clover="3.2.0">
+  <project timestamp="1770411971227" name="All files">
+    <metrics statements="196" coveredstatements="129" conditionals="110" coveredconditionals="66" methods="61" coveredmethods="31" elements="367" coveredelements="226" complexity="0" loc="196" ncloc="196" packages="3" files="7" classes="7"/>
+    <package name="pages">
+      <metrics statements="132" coveredstatements="66" conditionals="96" coveredconditionals="53" methods="53" coveredmethods="24"/>
+      <file name="AdminPanel.jsx" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\pages\AdminPanel.jsx">
+        <metrics statements="70" coveredstatements="24" conditionals="46" coveredconditionals="17" methods="25" coveredmethods="10"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="67" count="16" type="stmt"/>
+        <line num="68" count="16" type="stmt"/>
+        <line num="69" count="16" type="stmt"/>
+        <line num="77" count="16" type="stmt"/>
+        <line num="83" count="16" type="stmt"/>
+        <line num="85" count="16" type="stmt"/>
+        <line num="92" count="16" type="stmt"/>
+        <line num="93" count="4" type="stmt"/>
+        <line num="96" count="16" type="stmt"/>
+        <line num="99" count="16" type="stmt"/>
+        <line num="100" count="16" type="stmt"/>
+        <line num="106" count="16" type="stmt"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="115" count="16" type="stmt"/>
+        <line num="116" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="117" count="0" type="stmt"/>
+        <line num="119" count="0" type="stmt"/>
+        <line num="126" count="16" type="stmt"/>
+        <line num="127" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="129" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="130" count="0" type="stmt"/>
+        <line num="132" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="140" count="16" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="144" count="0" type="stmt"/>
+        <line num="151" count="16" type="stmt"/>
+        <line num="152" count="0" type="stmt"/>
+        <line num="153" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="156" count="0" type="stmt"/>
+        <line num="157" count="0" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="159" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="161" count="0" type="stmt"/>
+        <line num="162" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="164" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="165" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="166" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="167" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="176" count="16" type="stmt"/>
+        <line num="177" count="0" type="stmt"/>
+        <line num="190" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="192" count="0" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="195" count="0" type="stmt"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="199" count="0" type="stmt"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="204" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="209" count="16" type="stmt"/>
+        <line num="217" count="2" type="stmt"/>
+        <line num="263" count="0" type="stmt"/>
+        <line num="317" count="0" type="stmt"/>
+        <line num="338" count="5" type="stmt"/>
+        <line num="340" count="0" type="stmt"/>
+        <line num="354" count="0" type="cond" truecount="1" falsecount="1"/>
+        <line num="357" count="0" type="stmt"/>
+        <line num="360" count="1" type="stmt"/>
+        <line num="371" count="0" type="stmt"/>
+        <line num="382" count="0" type="stmt"/>
+        <line num="383" count="0" type="stmt"/>
+        <line num="399" count="0" type="stmt"/>
+      </file>
+      <file name="CarDetails.jsx" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\pages\CarDetails.jsx">
+        <metrics statements="35" coveredstatements="22" conditionals="34" coveredconditionals="25" methods="15" coveredmethods="6"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="44" count="4" type="stmt"/>
+        <line num="47" count="4" type="stmt"/>
+        <line num="50" count="4" type="stmt"/>
+        <line num="53" count="4" type="stmt"/>
+        <line num="56" count="4" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="70" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="79" count="4" type="stmt"/>
+        <line num="81" count="2" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="86" count="2" type="stmt"/>
+        <line num="88" count="2" type="stmt"/>
+        <line num="89" count="2" type="stmt"/>
+        <line num="93" count="2" type="stmt"/>
+        <line num="102" count="4" type="stmt"/>
+        <line num="103" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="119" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="121" count="2" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="143" count="2" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+        <line num="185" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="198" count="0" type="stmt"/>
+        <line num="213" count="0" type="stmt"/>
+        <line num="224" count="0" type="stmt"/>
+        <line num="225" count="0" type="stmt"/>
+        <line num="226" count="0" type="stmt"/>
+      </file>
+      <file name="Home.jsx" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\pages\Home.jsx">
+        <metrics statements="27" coveredstatements="20" conditionals="16" coveredconditionals="11" methods="13" coveredmethods="8"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="43" count="8" type="stmt"/>
+        <line num="46" count="8" type="stmt"/>
+        <line num="49" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="54" count="8" type="stmt"/>
+        <line num="59" count="8" type="stmt"/>
+        <line num="62" count="8" type="stmt"/>
+        <line num="65" count="8" type="stmt"/>
+        <line num="66" count="8" type="stmt"/>
+        <line num="67" count="224" type="stmt"/>
+        <line num="70" count="8" type="stmt"/>
+        <line num="71" count="8" type="stmt"/>
+        <line num="78" count="8" type="stmt"/>
+        <line num="80" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="90" count="8" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="95" count="10" type="cond" truecount="5" falsecount="1"/>
+        <line num="103" count="8" type="stmt"/>
+        <line num="125" count="2" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="138" count="224" type="stmt"/>
+        <line num="158" count="0" type="stmt"/>
+        <line num="170" count="7" type="stmt"/>
+        <line num="172" count="0" type="cond" truecount="1" falsecount="1"/>
+      </file>
+    </package>
+    <package name="styles.global">
+      <metrics statements="9" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="3"/>
+      <file name="SharedComponents.js" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\styles\global\SharedComponents.js">
+        <metrics statements="9" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="4" coveredmethods="3"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="11" count="3" type="stmt"/>
+        <line num="12" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="37" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="49" count="3" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="58" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="styles.pages">
+      <metrics statements="55" coveredstatements="55" conditionals="8" coveredconditionals="7" methods="4" coveredmethods="4"/>
+      <file name="AdminPanel.js" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\styles\pages\AdminPanel.js">
+        <metrics statements="22" coveredstatements="22" conditionals="8" coveredconditionals="7" methods="2" coveredmethods="2"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="66" count="1" type="stmt"/>
+        <line num="74" count="1" type="stmt"/>
+        <line num="115" count="1" type="stmt"/>
+        <line num="128" count="15" type="cond" truecount="4" falsecount="0"/>
+        <line num="129" count="15" type="cond" truecount="3" falsecount="1"/>
+        <line num="138" count="1" type="stmt"/>
+        <line num="167" count="1" type="stmt"/>
+        <line num="175" count="1" type="stmt"/>
+        <line num="189" count="1" type="stmt"/>
+        <line num="198" count="1" type="stmt"/>
+        <line num="202" count="1" type="stmt"/>
+        <line num="208" count="1" type="stmt"/>
+        <line num="215" count="1" type="stmt"/>
+        <line num="219" count="1" type="stmt"/>
+        <line num="224" count="1" type="stmt"/>
+        <line num="229" count="1" type="stmt"/>
+        <line num="236" count="1" type="stmt"/>
+      </file>
+      <file name="CarDetails.js" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\styles\pages\CarDetails.js">
+        <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="92" count="1" type="stmt"/>
+        <line num="102" count="1" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="125" count="1" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="159" count="1" type="stmt"/>
+        <line num="168" count="1" type="stmt"/>
+      </file>
+      <file name="Home.js" path="C:\Users\offic\OneDrive\Documents\AutoExpress\auto-express-pro\src\styles\pages\Home.js">
+        <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="77" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="142" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="168" count="8" type="stmt"/>
+        <line num="213" count="1" type="stmt"/>
+        <line num="232" count="1" type="stmt"/>
+        <line num="235" count="7" type="stmt"/>
+        <line num="243" count="1" type="stmt"/>
+        <line num="253" count="1" type="stmt"/>
+        <line num="260" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

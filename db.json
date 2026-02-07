@@ -1,0 +1,109 @@
+{
+  "cars": [
+    {
+      "brand": "BMW",
+      "model": "M5 Competition",
+      "year": 2024,
+      "price": 135000,
+      "mileage": 1200,
+      "fuelType": "Petrol",
+      "image": "https://www.cnet.com/a/img/resize/d9d2ce2af752b333575d5726773bd1bf7040801f/hub/2021/10/13/c75b1ec3-aced-4043-a3b0-484f6d5ead13/2022-bmw-m5-cs-001.jpg?auto=webp&width=1200",
+      "description": "Apsolutna zver na putu. V8 Biturbo motor, 625 KS. Keramičke kočnice i Bowers & Wilkins ozvučenje. Vozilo je u fabričkom stanju, bez tragova korišćenja.",
+      "gallery": [
+        "https://www.cnet.com/a/img/resize/3fd33f91eb79bbfb3ff975c7258ffaab43c588dd/hub/2021/10/13/e5c79205-2c82-4c59-be62-85c4326cfbb4/2022-bmw-m5-cs-002.jpg?auto=webp&width=1200",
+        "https://www.cnet.com/a/img/resize/378c065c35f697a4d8c03894848e5dbe4aefd98b/hub/2021/10/13/f774762c-fb5e-4f96-96eb-955f542127e2/2022-bmw-m5-cs-008.jpg?auto=webp&width=1200",
+        "https://www.cnet.com/a/img/resize/adf7112861143237f47b9f84bd52fe159743ae3c/hub/2021/10/13/28475b88-e961-4539-a3c9-13dde2b4ead1/2022-bmw-m5-cs-009.jpg?auto=webp&width=1200"
+      ],
+      "isActive": true,
+      "id": "1"
+    },
+    {
+      "brand": "Opel",
+      "model": "Astra J GTC OPC",
+      "year": 2015,
+      "price": 11500,
+      "mileage": 145210,
+      "fuelType": "Petrol",
+      "image": "https://r2.mbdesign.shop/cdn/width/900/media/ae/ca/52/1638208014/2019-04-25-19-28-13.jpg?ts=1713636425",
+      "description": "Kultni 'Hot Hatch' u prepoznatljivoj Carbon Black boji. 2.0 Turbo sa 280 KS, mehanički šper diferencijal, Brembo kočnice i Recaro kadice. Pravi vozački automobil za entuzijaste.",
+      "gallery": [
+        "https://r2.mbdesign.shop/cdn/width/900/media/38/5a/71/1638121614/2021-06-13-14-43-49.jpg?ts=1713636426",
+        "https://r2.mbdesign.shop/cdn/width/900/media/ae/51/e7/1638121614/2020-09-13-19-30-08.jpg?ts=1713636427",
+        "https://r2.mbdesign.shop/cdn/width/900/media/23/31/65/1638121614/2019-08-04-17-36-03.jpg?ts=1713636429"
+      ],
+      "isActive": true,
+      "id": "2"
+    },
+    {
+      "brand": "Mercedes-Benz",
+      "model": "AMG GT 63 S",
+      "year": 2022,
+      "price": 105200,
+      "mileage": 25000,
+      "fuelType": "Petrol",
+      "image": "https://gcdn.polovniautomobili.com/user-images/thumbs/2761/27617066/359955c15ade-1920x1080.jpg",
+      "description": "Kombinacija luksuzne limuzine i superautomobila. 4-Door Coupe sa neverovatnim performansama. Mat siva boja, 21-inčne felne i žuta kočiona klešta.",
+      "gallery": [
+        "https://gcdn.polovniautomobili.com/user-images/thumbs/2761/27617066/fc1f902b3253-1920x1080.jpg",
+        "https://gcdn.polovniautomobili.com/user-images/thumbs/2761/27617066/f48db023f54e-1920x1080.jpg",
+        "https://gcdn.polovniautomobili.com/user-images/thumbs/2761/27617066/1eafa1e4d70c-1920x1080.jpg"
+      ],
+      "isActive": true,
+      "id": "3"
+    },
+    {
+      "brand": "Porsche",
+      "model": "911 GT3 RS",
+      "year": 2023,
+      "price": 285000,
+      "mileage": 3500,
+      "fuelType": "Petrol",
+      "image": "https://www.netcarshow.com/Porsche-911_Carrera_GTS-2025-1280-86cc987a10f760fd025fe16540d20e1f65.jpg",
+      "description": "Trkački automobil legalan za ulicu. Weissach paket, karbonski krov, zaštitni kavez. Automobil za kolekcionare i ljubitelje staze.",
+      "gallery": [
+        "https://www.netcarshow.com/Porsche-911_Carrera_GTS-2025-1280-47788f94d82e1645b5035125a0e5f24cbd.jpg",
+        "https://www.netcarshow.com/Porsche-911_Carrera_GTS-2025-1280-9d9c7d93b187173cf9a9eb3a60f190fe8b.jpg?token=ec975fb0e31e2cf9aa161b5a91db7586f6dabfe5b5586729f7f67e3",
+        "https://www.netcarshow.com/Porsche-911_Carrera_GTS-2025-1280-72a212f54ea92ce063c5e4cf9118b8d68c.jpg?token=ec975fb0e31e2cf9aa161b5a91db7586f6dabfe5b5586939f7f67e3"
+      ],
+      "isActive": true,
+      "id": "4"
+    },
+    {
+      "brand": "Audi",
+      "model": "RS6 Avant",
+      "year": 2021,
+      "price": 112000,
+      "mileage": 42000,
+      "fuelType": "Petrol",
+      "image": "https://bringatrailer.com/wp-content/uploads/2023/12/2021_audi_rs6_u_0001-56005.jpg?w=940",
+      "description": "Savršen porodični automobil sa performansama superautomobila. Nardo Grey boja, Black Optic paket i RS sportski izduvni sistem.",
+      "gallery": [
+        "https://bringatrailer.com/wp-content/uploads/2023/12/2021_audi_rs6_u_0014-56016.jpg?w=620&resize=620%2C413",
+        "https://bringatrailer.com/wp-content/uploads/2023/12/2021_audi_rs6_u_0010-56043.jpg?w=620&resize=620%2C413",
+        "https://bringatrailer.com/wp-content/uploads/2023/12/2021_audi_rs6_U_0106-84707-scaled.jpg?w=620&resize=620%2C413"
+      ],
+      "isActive": true,
+      "id": "5"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "AdministratorTEST",
+      "password": "admintest",
+      "role": "ADMIN",
+      "email": "admin@autoexpress.rs",
+      "birthDate": "1990-01-01"
+    },
+    {
+      "id": "2",
+      "username": "UserTEST",
+      "password": "usertest",
+      "role": "USER",
+      "email": "user@example.com",
+      "birthDate": "2000-05-15"
+    }
+  ],
+  "reviews": [],
+  "messages": []
+}
