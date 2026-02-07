@@ -97,7 +97,7 @@ const Footer = () => {
   </div>
   <div style={{ fontSize: '0.8rem', marginTop: '5px', opacity: 0.7 }}>
     Ovaj sajt je isključivo <strong>studentski projekat</strong> u svrhe portfolija. 
-    Sve slike i brendovi su vlasništvo njihovih autora i ne koriste se u komercijalne svrhe.
+    Sve slike, brendovi i nazivi su vlasništvo njihovih autora i ne koriste se u komercijalne svrhe.
   </div>
 </BottomBar>
     </FooterContainer>
